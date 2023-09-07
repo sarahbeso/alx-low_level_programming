@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main-entry
+ * main - entry
  * A C programming that print function
  * return always 0
  */
