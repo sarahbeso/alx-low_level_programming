@@ -15,4 +15,6 @@ else
 {
 digit++;
 }
+printf('\n');
+return (0);
 }
