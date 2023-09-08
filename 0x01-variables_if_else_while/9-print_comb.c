@@ -6,17 +6,18 @@
 */
 int main(void)
 {
-int numbers = '0';
+int numbers = 0;
 {
-while (numbers <= '9')
+while (numbers <= 9)
 {
-putchar(numbers);
+putchar(numbers + 48);
 if (numbers != 9)
 {
 putchar(',');
 putchar(' ');
 }
 numbers++;
+}
 putchar('\n');
 return (0);
 }
