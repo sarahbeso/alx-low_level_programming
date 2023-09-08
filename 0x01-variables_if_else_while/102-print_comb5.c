@@ -5,6 +5,7 @@
 * Return: Always 0 (success)
 */
 int main(void)
+{
 int n1 = 0, n2;
 while (n1 <= 99)
 {
