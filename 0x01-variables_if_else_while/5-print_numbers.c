@@ -13,6 +13,6 @@ printf("%i", digit);
 }
 else
 {
-digit++
+digit++;
 }
 }
