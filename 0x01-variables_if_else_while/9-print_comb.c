@@ -14,6 +14,7 @@ putchar(numbers);
 if (numbers != 9)
 {
 putchar(',');
+putchar(' ');
 }
 putchar('\n');
 return (0);
