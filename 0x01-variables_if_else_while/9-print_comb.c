@@ -16,6 +16,7 @@ if (numbers != 9)
 putchar(',');
 putchar(' ');
 }
+numbers++;
 putchar('\n');
 return (0);
 }
