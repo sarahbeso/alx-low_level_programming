@@ -21,3 +21,4 @@ numbers++;
 putchar('\n');
 return (0);
 }
+}
