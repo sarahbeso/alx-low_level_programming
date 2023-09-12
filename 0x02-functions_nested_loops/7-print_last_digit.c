@@ -12,5 +12,6 @@ if (n < 0)
 lastnum = -1 * (n % 10);
 else
 lastnum = n % 10;
+_putchar(lastnum + '0');
 return (lastnum);
 }
